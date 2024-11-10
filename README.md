@@ -71,7 +71,7 @@ me.say_hi()
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=Chroma&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-0055FF?style=for-the-badge&logo=Pinecone&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-%2376B900.svg?style=for-the-badge&logo=nvidia&logoColor=white)
+
 
 ### Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
